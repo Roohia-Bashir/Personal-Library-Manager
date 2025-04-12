@@ -1,8 +1,15 @@
 [project]
-name = "library-manager"
+name = "personal-library-manager"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Streamlit-based personal library manager"
+authors = ["Roohia Bashir <roohiabashir1994@gmail.com>"]
 readme = "README.md"
 requires-python = ">=3.11"
+streamlit = "^1.0"
+pandas = "^1.0"
 dependencies = []
 "type": "module"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
