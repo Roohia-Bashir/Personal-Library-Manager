@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2",
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "read": false
+  },
+  {
+    "id": "1744484943.096809",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "Fiction",
+    "read": false
+  }
+]
