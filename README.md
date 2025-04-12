@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Library Manager
 
 A simple and interactive library management system built with Streamlit. This app allows you to manage your personal library by adding, removing, searching, and analyzing books. It supports basic library features such as tracking read/unread status and genre distribution.
@@ -79,3 +80,6 @@ Push your changes and submit a pull request.
 License
 This project is licensed under the MIT License.
 
+=======
+# Personal-Library-Manager
+>>>>>>> c6ea32b288d0a0684bcfa669b024e88805752e41
